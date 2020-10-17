@@ -1,7 +1,9 @@
 <!doctype html>
+<html>
 <head>
 <title>Richards Racing</title>
 </head>
+<body>
 <header class="header"
 <h4>Richards Racing</h4>
 <div class="about">
@@ -19,3 +21,5 @@
 <h4>The Expantion</h4>
 <p>The expantion will begin after we have started to become a mid pack team. We will expand to more cars starting lower. Every new car added will start the first seaso n running select races on a part time schedule for the first season before going full time in the second season. The numbers available to be added to the lineup include the following: 38, 01, 67, 00, 04, 06, 07, 89, 44, 45, 46, 48, 9, and 91.<p>
 </div>
+</body>
+<\html>
